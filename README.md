@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/la%C3%ADza-honorato-pimentel-320656140/" target="_blank">
-  <img align="center" alt="laiza-linkedin" heigth="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"
+  <img align="center" alt="laiza-linkedin" heigth="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
      style="max-width:100%;">
+  
   </a>
   
   # Hello,there! :vulcan_salute:
