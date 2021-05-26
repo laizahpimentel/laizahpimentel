@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   
   </a>
   
+  
   # Hello,there! :vulcan_salute:
   ##### :rainbow: Meu nome é Laiza, tenho 22 anos!
   #####  :purple_heart: Estudante de Análise e Dsenvolvimento de Sistemas, na UNINTER.
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
       
   <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laizahpimentel&layout=compact&langs_count=8&theme=radical"/>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laizahpimentel)](https://github.com/laizahpimentel/github-readme-stats)
 
 
 
