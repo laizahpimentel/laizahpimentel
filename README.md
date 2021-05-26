@@ -32,9 +32,19 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" heigth="40" style="max-width:100%;"></img>
 
  ## :hammer_and_wrench: Github Stats :hammer_and_wrench: 
-<div>
+
+
   <a href="https://github.com/laizahpimentel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laizahpimentel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      
   <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laizahpimentel&layout=compact&langs_count=8&theme=radical"/>
-<div>
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laizahpimentel)](https://github.com/laizahpimentel/github-readme-stats)
+
+
+
+
+
+
+  
 
