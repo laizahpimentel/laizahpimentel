@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   # Hello,there! :vulcan_salute:
   ##### :rainbow: Meu nome é Laiza, tenho 22 anos!
   #####  :purple_heart: Estudante de Análise e Dsenvolvimento de Sistemas, na UNINTER.
-  ##### :computer: Atualmente aprendendo desenvolvimento Web, meu foco é front-end. 
+  ##### :computer: Atualmente aprendendo as linguaguens de python,javascript e C, focando em back-end. 
   #####  :dart: Em busca de novos aprendizados, conhecimentos e experiencias na área.
   
   # My Skills:
