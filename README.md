@@ -29,8 +29,7 @@
  <a href="https://open.spotify.com/user/aqx92ahl11rbivq8zzqo2kau2" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href = "mailto:laizahpimentel@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/la%C3%ADza-honorato-pimentel-320656140" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wakatime.com/badge/github/laizahpimentel/laizahpimentel"><img src="https://wakatime.com/badge/github/laizahpimentel/laizahpimentel.svg"></a> 
-  
+ <a href="https://wakatime.com/badge/github/laizahpimentel/laizahpimentel"><img src="https://wakatime.com/badge/github/laizahpimentel/laizahpimentel.svg"></a>
    ![Snake animation](https://github.com/laizahpimentel/laizahpimentel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
