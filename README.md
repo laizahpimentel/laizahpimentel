@@ -1,12 +1,14 @@
 
-## 🌈Olá! it's me Laíza Pimentel, Bem vindo ao meu GITHUB🌈 
+## 🌈Olá! it's me Laíza Pimentel, Bem vindo ao meu GITHUB🌈 <img align="right" alt="Iza-hi" src="https://media.discordapp.net/attachments/829515456016023652/870362752621875230/gifizineo.gif">
+
+
  
  <div>
  
   <a href="https://github.com/laizahpimentel">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=laizahpimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laizahpimentel&layout=compact&langs_count=7&theme=dracula"/>
-  
+ 
  </div>
   
 <div style="display: inline_block"><br> 
@@ -18,7 +20,7 @@
   <img align="center" alt="iza-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="iza-Python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iza-C"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Iza-hi" src="https://media.discordapp.net/attachments/829515456016023652/870362752621875230/gifizineo.gif">
+  
   
 </div>
   
