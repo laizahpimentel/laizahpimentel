@@ -1,7 +1,11 @@
 
 <img align="right" alt="Iza-hi" src="https://media.discordapp.net/attachments/829515456016023652/870362752621875230/gifizineo.gif">
 
-## 🌈Olá! it's me Laíza Pimentel, Bem vindo ao meu GITHUB🌈 
+# 🌈Bem vindo ao meu GITHUB🌈 
+#### ❤️ Meu nome é laíza, tenho 22 anos.
+#### 💻 Apaixonada por tecnologia, desenvolvo para backend e as vezes me aventuro pelo frontend.
+#### 📚 Cursando 3° semestre em Análise e desenvolvimento de sistemas.
+
 
  
  <div>
