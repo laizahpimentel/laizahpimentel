@@ -1,4 +1,4 @@
-<img align="left" alt="Iza-hi" src="https://media.discordapp.net/attachments/829515456016023652/870362752621875230/gifizineo.gif">
+<img align="left" alt="Iza-hi" height="80" width="80"                          src="https://media.discordapp.net/attachments/829515456016023652/870362752621875230/gifizineo.gif">
 
 # 🌈Bem vindo ao meu GITHUB🌈 
 
