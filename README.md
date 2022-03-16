@@ -1,4 +1,4 @@
-<img align="center-right" alt="Iza-hi" src="https://designculture.com.br/wp-content/uploads/2017/02/35ae65e72b11ce73f7bc4b758c7b6a48.gif">
+
 
  <div>
   <a href="https://github.com/laizahpimentel">
