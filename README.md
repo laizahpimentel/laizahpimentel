@@ -21,7 +21,6 @@
    ## 
 <div> 
    
-  <a  href="https://steamcommunity.com/id/izaunicorn666" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
  
  
