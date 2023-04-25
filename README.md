@@ -1,7 +1,7 @@
 ## Hello! my name is Laíza Honorato Pimentel 
 
-- Desenvolvedora Front-End 🖥
-- Apaixonada pela tecnologia ⚛️
+- Im development software 🖥
+- in love to tech ⚛️
 
 <div>
     <a href="https://github.com/Gipria">
