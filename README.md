@@ -22,7 +22,4 @@
   <a href="https://www.linkedin.com/in/laizahpimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
   
-   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=laizahpimentel">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=laizahpimentel&layout=compact&text_color=72e8af&bg_color=193549" style="max-width:100%; padding-right:0" />
- 
-</a>
+
