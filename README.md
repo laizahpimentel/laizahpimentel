@@ -3,6 +3,9 @@
 - Im development software 🖥
 - in love to tech ⚛️
 
+I am currently internship at IBM, im development with front end and tests how e2e
+i always looking for new challengers, this is my world, my github, welcome! 
+
 <div>
 <!--     <a href="https://github.com/laizahpimentel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laizahpimentel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
