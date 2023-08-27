@@ -1,7 +1,7 @@
 ## Hello! my name is Laíza Honorato Pimentel 
 
 - Im development software 🖥
-- in love to tech ⚛️
+- im love tech ⚛️
 
 Currently internship at IBM, im development  front end,
 this is my world, my github, welcome! 
