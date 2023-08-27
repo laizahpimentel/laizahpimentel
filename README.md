@@ -3,8 +3,8 @@
 - Im development software 🖥
 - in love to tech ⚛️
 
-I am currently internship at IBM, im development with front end and tests how e2e
-i always looking for new challengers, this is my world, my github, welcome! 
+Currently internship at IBM, im development  front end,
+this is my world, my github, welcome! 
 
 <div>
 <!--     <a href="https://github.com/laizahpimentel">
