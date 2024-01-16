@@ -3,7 +3,6 @@
 - Im development software 🖥
 - im love tech ⚛️
 
-Currently internship at IBM, im development  front end,
 this is my world, my github, welcome! 
 
 <div>
