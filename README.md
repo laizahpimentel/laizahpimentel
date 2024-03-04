@@ -1,6 +1,6 @@
 # 🖖🏻 Hello there!
 
-I'm Laiza Pimentel, a passionate software developer and tech enthusiast. I currently work as a Junior Development FrontEnd. 
+I'm Laiza Pimentel, a passionate software developer and tech enthusiast. I currently work as a Junior Development Software. 
 
 
 # 🚀 Expertise
