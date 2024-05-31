@@ -1,10 +1,6 @@
 # 🖖🏻 Hello there!
 
 I'm Laiza Pimentel, a passionate software developer and tech enthusiast. I currently work as a Junior Development Software. 
-
-
-# 🚀 Expertise
-
 Passionate about crafting interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns. With almost 3 years dedicated to honing my skills in front-end technologies, I've designed system guidelines and upheld the highest standards in web performance.
 
 
